@@ -72,6 +72,11 @@ form label {font-family: 'Archivo', sans-serif;
   margin-bottom: 10px;
 }
 
+
+form .contact {
+  position: center;
+  font-family: Archivo; 
+}
 form .form-control {
   padding: 15px;
   height: auto;
