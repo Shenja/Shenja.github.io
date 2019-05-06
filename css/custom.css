@@ -356,6 +356,16 @@ video {
   height: auto   !important;
 }
 
+
+.brand img {
+  max-width: 500px    !important;
+  width:100% ;
+  height: auto   !important;
+}
+
+
+
+
 .responsive-video iframe {
 position: absolute;
 top: 0;
