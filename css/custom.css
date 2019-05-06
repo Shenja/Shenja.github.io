@@ -90,7 +90,7 @@ form .form-control {
   font-size: 1.2em;
   -webkit-transition: all .3s;
   transition: all .3s;
-  position: relative;
+  position: center;
 }
 
 @media screen and (max-width: 768px) {
@@ -98,6 +98,7 @@ form .form-control {
     padding: 10px;
   }
 }
+form
 
 form .form-control:focus {
   outline: none !important;
